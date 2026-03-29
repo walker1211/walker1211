@@ -32,13 +32,6 @@ I build practical developer tools focused on **Go**, **automation**, and **AI-po
 - Workflow optimization for developers
   持续优化开发者日常工作流
 
-## Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=walker1211&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walker1211&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
 ## Contact / 联系
 
 If you're working on Go tooling, automation, or AI workflow ideas, feel free to connect.
