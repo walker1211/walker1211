@@ -28,3 +28,5 @@
 - GitHub：[@walker1211](https://github.com/walker1211)
 - Email：walkerzhang1211@gmail.com
 - 公众号：搁剑听风
+
+![公众号二维码](./wechat-qrcode.jpg)
