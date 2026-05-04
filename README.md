@@ -1,32 +1,38 @@
-# 👋 你好，我是 Walker
+# Hi, I'm Walker / 你好，我是 Walker
 
-我专注于构建 **Go-first** 的 CLI 工具、自动化工作流，以及 AI 辅助开发体验。
+I build Go-first CLI tools, automation workflows, and practical AI-assisted developer experiences.
 
-## 👨‍💻 关于我
+我主要做一些 **Go-first** 的 CLI 工具、自动化工作流，以及 AI 辅助开发体验。偏好简单、务实、可靠、可维护的方案。
 
-- 持续构建真正提升开发效率的工具和工作流
-- 关注 CLI 设计、自动化系统和可靠的工程化工具
-- 偏好简单、务实、可维护的方案，而不是过度设计
+## Current Focus / 当前关注
 
-## 🎯 关注方向
+* Go-first CLI tools
+* Developer automation
+* AI-assisted engineering workflows
+* Reliable personal tooling
+* macOS productivity tools
 
-- Go 语言与工程实践
-- 命令行工具
-- 自动化工作流
-- AI 辅助开发流程
-- macOS 效率工具
+## Selected Projects / 项目精选
 
-## ⚙️ 工作方式
+| Project | Description |
+| --- | --- |
+| [news-briefing](https://github.com/walker1211/news-briefing) | Configurable news briefing automation for generating Chinese briefings through a local AI CLI. 中文新闻简报自动化工具。 |
+| [mark2note](https://github.com/walker1211/mark2note) | Markdown-to-deck CLI for generating HTML / PNG presentation assets and content cards. 适合做演示稿和内容卡片。 |
+| [buddy-hunt](https://github.com/walker1211/buddy-hunt) | Toolkit for exploring Claude buddy generation rules and searching target attribute combinations. 用来研究 buddy 属性组合。 |
+| [macos-app-dual-open](https://github.com/walker1211/macos-app-dual-open) | Small Bash CLI for creating and managing secondary copies of macOS apps. 帮助同一应用多开。 |
+| [histprune](https://github.com/walker1211/histprune) | Safe, explainable shell history cleanup with dry-run, backups, and restore. 安全清理 shell 历史记录。 |
 
-- 默认优先 Go-first
-- 重视可落地的自动化，而不是为了架构而架构
-- 偏好简单、稳定、可靠的工具
-- 持续优化开发者日常工作流
+## How I Work / 工作方式
 
-## 📬 联系方式
+* Prefer simple tools that solve real daily problems
+* Keep workflows observable, recoverable, and easy to operate
+* Avoid over-engineering before the problem proves it needs more structure
+* Treat AI as a practical engineering assistant, not a replacement for judgment
 
-- GitHub：[@walker1211](https://github.com/walker1211)
-- Email：walkerzhang1211@gmail.com
-- 公众号：搁剑听风
+## Contact / 联系方式
 
-![公众号二维码](./wechat-qrcode.jpg)
+* GitHub: [@walker1211](https://github.com/walker1211)
+* Email: walkerzhang1211@gmail.com
+* WeChat Official Account / 公众号：搁剑听风
+
+<img src="./wechat-qrcode.jpg" alt="公众号二维码" width="180" />
