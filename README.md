@@ -16,11 +16,11 @@ I build Go-first CLI tools, automation workflows, and practical AI-assisted deve
 
 | Project | Description |
 | --- | --- |
-| [news-briefing](https://github.com/walker1211/news-briefing) | Configurable news briefing automation for generating Chinese briefings through a local AI CLI. 中文新闻简报自动化工具。 |
-| [mark2note](https://github.com/walker1211/mark2note) | Markdown-to-deck CLI for generating HTML / PNG presentation assets and content cards. 适合做演示稿和内容卡片。 |
-| [buddy-hunt](https://github.com/walker1211/buddy-hunt) | Toolkit for exploring Claude buddy generation rules and searching target attribute combinations. 用来研究 buddy 属性组合。 |
-| [macos-app-dual-open](https://github.com/walker1211/macos-app-dual-open) | Small Bash CLI for creating and managing secondary copies of macOS apps. 帮助同一应用多开。 |
-| [histprune](https://github.com/walker1211/histprune) | Safe, explainable shell history cleanup with dry-run, backups, and restore. 安全清理 shell 历史记录。 |
+| [news-briefing](https://github.com/walker1211/news-briefing) | Configurable news briefing automation for generating Chinese briefings through a local AI CLI.<br />新闻简报自动化工具。 |
+| [mark2note](https://github.com/walker1211/mark2note) | Markdown-to-deck CLI for generating HTML / PNG presentation assets and content cards.<br />演示稿和内容卡片（小红书）图片生成工具。|
+| [buddy-hunt](https://github.com/walker1211/buddy-hunt) | Toolkit for exploring Claude buddy generation rules and searching target attribute combinations.<br />Claude Buddy 属性组合研究工具。 |
+| [macos-app-dual-open](https://github.com/walker1211/macos-app-dual-open) | Small Bash CLI for creating and managing secondary copies of macOS apps.<br />macOS 应用双开工具。 |
+| [histprune](https://github.com/walker1211/histprune) | Safe, explainable shell history cleanup with dry-run, backups, and restore.<br />安全清理 shell 历史记录。 |
 
 ## How I Work / 工作方式
 
