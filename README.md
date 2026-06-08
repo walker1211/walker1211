@@ -22,7 +22,7 @@ I build Go-first CLI tools, automation workflows, and practical AI-assisted deve
 | [browsebox](https://github.com/walker1211/browsebox) | Open an isolated Chrome for agent web tasks on a specified Clash/mihomo node without touching the main proxy or profile.<br />为 agent 网页任务临时打开一个走指定节点的独立 Chrome，不影响主代理和日常浏览器环境。 |
 | [macos-app-dual-open](https://github.com/walker1211/macos-app-dual-open) | Small Bash CLI for creating and managing secondary copies of macOS apps.<br />macOS 应用双开工具。 |
 | [histprune](https://github.com/walker1211/histprune) | Safe, explainable shell history cleanup with dry-run, backups, and restore.<br />安全清理 shell 历史记录。 |
-| [agent-canon](https://github.com/walker1211/agent-canon) | A git-like semantic migration and sync tool for AI coding agent configurations.<br />AI coding agent 配置的语义迁移和同步工具。 |
+| [agent-canon](https://github.com/walker1211/agent-canon) | Claude Code ↔ Codex CLI config moving tool with dry-run review and rollback.<br />Claude Code ↔ Codex CLI 配置搬家工具，支持 dry-run 审查和回滚。 |
 | [clawside](https://github.com/walker1211/clawside) | Local MCP sidecar and durable truth-plane for OpenClaw / A2A coordination, smoke verification, and public-readiness workflows.<br />OpenClaw / A2A 协调的本地 MCP sidecar 和 durable truth-plane，包含 smoke 验证与开源 readiness 工作流。 |
 
 ## How I Work / 工作方式
