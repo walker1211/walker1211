@@ -36,6 +36,8 @@ I build Go-first CLI tools, automation workflows, and practical AI-assisted deve
 
 * GitHub: [@walker1211](https://github.com/walker1211)
 * Email: walkerzhang1211@gmail.com
+<!--
 * WeChat Official Account / 公众号：搁剑听风
 
 <img src="./wechat-qrcode.jpg" alt="公众号二维码" width="180" />
+-->
